@@ -1,6 +1,2 @@
 # Contacto
 ## Personas
-
-### Correo
-
-### 
